@@ -1,0 +1,5 @@
+data/raw/*
+data/processed/test/*
+data/processed/train/*
+data/model/*
+logs/
